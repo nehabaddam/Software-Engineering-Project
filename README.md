@@ -16,14 +16,14 @@ UI Coding Languages: HTML, CSS, Java Script <br/>
 Tools: Zoom (for meetings) <br/>
 
 # Team Members and Roles:
-Neha Goud Baddam &emsp; - &emsp; Full Stack Developer
-Reshmi Chowdary Divi &emsp; - &emsp; Backend Developer
-Prem Kumar Maddula &emsp; - &emsp; Backend Developer
-Rahul Mandaloju &emsp; - &emsp; Frontend Developer
-Vamsi Sai Konidena &emsp; - &emsp; Frontend Developer
-Harika Uppalapati &emsp; - &emsp; UI Developer
-Purandhara Maharshi Chidurala &emsp; - &emsp; UI Developer
-Shiva Surya Vardhan Reddy &emsp; - &emsp; Testing and Documentation
+Neha Goud Baddam &emsp; - &emsp; Full Stack Developer  <br/>
+Reshmi Chowdary Divi &emsp; - &emsp; Backend Developer  <br/>
+Prem Kumar Maddula &emsp; - &emsp; Backend Developer  <br/>
+Rahul Mandaloju &emsp; - &emsp; Frontend Developer  <br/>
+Vamsi Sai Konidena &emsp; - &emsp; Frontend Developer  <br/>
+Harika Uppalapati &emsp; - &emsp; UI Developer  <br/>
+Purandhara Maharshi Chidurala &emsp; - &emsp; UI Developer  <br/>
+Shiva Surya Vardhan Reddy &emsp; - &emsp; Testing and Documentation  <br/>
 
 # Folder Structure:
   # Deliverables:
