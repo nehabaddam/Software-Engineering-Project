@@ -1,0 +1,16 @@
+# Meetings Conducted
+
+Meeting 1: 2/2/2022 - 6:00PM - 8:00PM - Zoom meeting
+
+Minutes of Meeting for Deliverable-1 (2/2/2022 - 6:00PM - 8:00PM)
+
+Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
+
+1. Discussed on how to create folders in GIT and upload documents
+2. dicussed scope of the project
+3. Analysed Risks and contingency plans
+4. Discussed on how to implement the changes to improve the project 
+5. Distributed the work among the team
+6. Discussed how to implement Gantt chart and pert charts w.r.t project
+7. Prepared the presentaion 
+
