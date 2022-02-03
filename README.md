@@ -35,11 +35,13 @@ There are 3 main modules:
      Software-Engineering-Project/Minutes of Meeting/Minutes of Meeting.txt
   
   # Group Info:
-     Software-Engineering-Project/GROUP-INFO.txt
+     Software-Engineering-Project/GROUP-INFO
   
   # Team Responsibilities:
      Software-Engineering-Project/Team Responsibilities
   
   # Trello Board:
-     https://trello.com/b/QxOvInOu/software-engineering-kanban
+     https://trello.com/b/QxOvInOu/software-engineering-kanban 
+     
+   # Deliverable-1 Board
   
