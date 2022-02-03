@@ -10,30 +10,36 @@ There are 3 main modules:
 
 # Technical Requirement: 
 
-Core Programming Languages: python <br/>
-Database Languades: SQL, Oracle DB <br/>
-UI Coding Languages: HTML, CSS, Java Script <br/>
-Tools: Zoom (for meetings) <br/>
+  Core Programming Languages: python <br/>
+  Database Languades: SQL, Oracle DB <br/>
+  UI Coding Languages: HTML, CSS, Java Script <br/>
+  Tools: Zoom (for meetings) <br/>
 
 # Team Members and Roles:
-Neha Goud Baddam &emsp; - &emsp; Full Stack Developer  <br/>
-Reshmi Chowdary Divi &emsp; - &emsp; Backend Developer  <br/>
-Prem Kumar Maddula &emsp; - &emsp; Backend Developer  <br/>
-Rahul Mandaloju &emsp; - &emsp; Frontend Developer  <br/>
-Vamsi Sai Konidena &emsp; - &emsp; Frontend Developer  <br/>
-Harika Uppalapati &emsp; - &emsp; UI Developer  <br/>
-Purandhara Maharshi Chidurala &emsp; - &emsp; UI Developer  <br/>
-Shiva Surya Vardhan Reddy &emsp; - &emsp; Testing and Documentation  <br/>
+
+  Neha Goud Baddam &emsp; - &emsp; Full Stack Developer  <br/>
+  Reshmi Chowdary Divi &emsp; - &emsp; Backend Developer  <br/>
+  Prem Kumar Maddula &emsp; - &emsp; Backend Developer  <br/>
+  Rahul Mandaloju &emsp; - &emsp; Frontend Developer  <br/>
+  Vamsi Sai Konidena &emsp; - &emsp; Frontend Developer  <br/>
+  Harika Uppalapati &emsp; - &emsp; UI Developer  <br/>
+  Purandhara Maharshi Chidurala &emsp; - &emsp; UI Developer  <br/>
+  Shiva Surya Vardhan Reddy &emsp; - &emsp; Testing and Documentation  <br/>
 
 # Folder Structure:
+
   # Deliverables:
-     Deliverable1 -> 
+     Deliverable1 -> Software-Engineering-Project/Deliverables/Deliverable-1.docx
     
   # Minutes of Meeting:
+     Software-Engineering-Project/Minutes of Meeting/Minutes of Meeting.txt
   
   # Group Info:
+     Software-Engineering-Project/GROUP-INFO.txt
   
   # Team Responsibilities:
+     Software-Engineering-Project/Team Responsibilities
   
   # Trello Board:
+     https://trello.com/b/QxOvInOu/software-engineering-kanban
   
