@@ -44,7 +44,7 @@ There are 3 main modules:
      https://trello.com/b/QxOvInOu/software-engineering-kanban 
      
   # Note-Deliverable-1
-     Deliverable1 -> Software-Engineering-Project/Deliverables/Deliverable-1.docx
+     Deliverable1 -> Software-Engineering-Project/Deliverables/TeamDeliverable-1.docx
      
 
   
