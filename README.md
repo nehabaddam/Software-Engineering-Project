@@ -13,7 +13,7 @@ There are 3 main modules:
   Core Programming Languages: python <br/>
   Database Languades: SQL, Oracle DB <br/>
   UI Coding Languages: HTML, CSS, Java Script <br/>
-  Tools: Zoom (for meetings) <br/>
+  Tools: Zoom (for meetings) , Firebase (Authentication) <br/>
 
 # Team Members and Roles:
 
