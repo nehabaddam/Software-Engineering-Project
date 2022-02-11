@@ -29,7 +29,7 @@ There are 3 main modules:
 # Folder Structure:
 
   # Deliverables:
-     Deliverable1 -> Software-Engineering-Project/Deliverables/Deliverable-1.docx
+     Deliverable1 -> Software-Engineering-Project/Deliverables
     
   # Minutes of Meeting:
      Software-Engineering-Project/Minutes of Meeting/Minutes of Meeting.txt
@@ -42,6 +42,9 @@ There are 3 main modules:
   
   # Trello Board:
      https://trello.com/b/QxOvInOu/software-engineering-kanban 
+     
+  # Note-Deliverable-1
+     Deliverable1 -> Software-Engineering-Project/Deliverables/Deliverable-1.docx
      
    # Deliverable-1 Board
   
