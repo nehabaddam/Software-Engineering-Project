@@ -46,5 +46,5 @@ There are 3 main modules:
   # Note-Deliverable-1
      Deliverable1 -> Software-Engineering-Project/Deliverables/Deliverable-1.docx
      
-   # Deliverable-1 Board
+
   
