@@ -17,7 +17,7 @@ There are 3 main modules:
 
 # Team Members and Roles:
 
-  Neha Goud Baddam &emsp; - &emsp; Full Stack Developer  <br/>
+  Neha Goud Baddam &emsp; - &emsp; Full Stack Developer  (Team Leader) <br/>
   Reshmi Chowdary Divi &emsp; - &emsp; Backend Developer  <br/>
   Prem Kumar Maddula &emsp; - &emsp; Backend Developer  <br/>
   Rahul Mandaloju &emsp; - &emsp; Frontend Developer  <br/>
