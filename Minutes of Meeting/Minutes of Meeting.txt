@@ -20,9 +20,11 @@ Minutes of Meeting for Deliverable-1 (2/19/2022 - 6:00PM - 8:00PM)
 
 Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
 
-1. We spoke on the work division to complete deliverable 2.
-2. For each development phase, we prioritized the functionalities and then divide those functionalities among each development phase.
-3. The overall structure of the application.
+1. We divided deliverable-2 components among team members based on tem members availability and skills.
+2. As part of project planning, we have prioritized the functionalities and then divide those functionalities among each development phase.
+3. We have discussed about all the components that are needed in the project.
+4. Discussed about overall structure of the application and designed a rough structure diagram for easy understanding.
+5. We Analysed available web-application models in the market to finalize what tools can be used for project development.
 
 Meeting 3: 2/26/2022 - 6:00PM - 8:00PM - Zoom meeting
 
@@ -30,8 +32,10 @@ Minutes of Meeting for Deliverable-1 (2/26/2022 - 6:00PM - 8:00PM)
 
 Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
 
-1. We discussed what the design should look like for the users.
-2. Discussion on the functionalities and their components, which ones to include, finalized them on the database.
-3. Non-functionalities: we analyzed the components
-4. We finalized the technology and tools that we need to use.
-5. Also, discussed the user interface looks.
+1. We discussed what the application should look like for the users.
+2. Finalised the functionalities, components and the database fields.
+3. We finalized the technologies and tools that we need to use.
+4. We also designed few GUI screens for understanding how the page should look.
+5. We integrated our individual components that we worked on for deliverable-2 and prepared a final document.
+
+
