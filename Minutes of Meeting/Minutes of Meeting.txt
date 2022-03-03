@@ -14,3 +14,24 @@ Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
 6. Discussed how to implement Gantt chart and pert charts w.r.t project
 7. Prepared the presentaion 
 
+Meeting 2: 2/19/2022 - 6:00PM - 8:00PM - Zoom meeting
+
+Minutes of Meeting for Deliverable-1 (2/19/2022 - 6:00PM - 8:00PM)
+
+Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
+
+1. We spoke on the work division to complete deliverable 2.
+2. For each development phase, we prioritized the functionalities and then divide those functionalities among each development phase.
+3. The overall structure of the application.
+
+Meeting 3: 2/26/2022 - 6:00PM - 8:00PM - Zoom meeting
+
+Minutes of Meeting for Deliverable-1 (2/26/2022 - 6:00PM - 8:00PM)
+
+Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
+
+1. We discussed what the design should look like for the users.
+2. Discussion on the functionalities and their components, which ones to include, finalized them on the database.
+3. Non-functionalities: we analyzed the components
+4. We finalized the technology and tools that we need to use.
+5. Also, discussed the user interface looks.
