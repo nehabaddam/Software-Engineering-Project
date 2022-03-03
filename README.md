@@ -6,14 +6,15 @@ The Bug tracking System is an application that helps in tracking tickets raised 
 There are 3 main modules: 
 1. Customer Module: A bug is reported in the project/system by the customer through the website by an agent. 
 2. Manager Module: Once the ticket is created, manager looks for new tickets created and assigns it to the staff. Manager has authorities to move the ticket from one staff member to another.
-3. Staff Module: Once the ticket is assigned to the staff, they can change the status of the ticket until the bug is resolved. 
+3. Employee Module: Once the ticket is assigned to the staff, they can change the status of the ticket until the bug is resolved. 
 
 # Technical Requirement: 
 
-  Core Programming Languages: python <br/>
-  Database Languades: SQL, Oracle DB <br/>
-  UI Coding Languages: HTML, CSS, Java Script <br/>
-  Tools: Zoom (for meetings) , Firebase (Authentication) <br/>
+  Core Programming Languages: PHP <br/>
+  Database Languades: SQL <br/>
+  UI Coding Languages: HTML, jQuery, AZAX, Java Script <br/>
+  Server: XAMPP <br/>
+  Tools: Zoom (for meetings) , Visual Studio (IDE) <br/>
 
 # Team Members and Roles:
 
@@ -30,6 +31,7 @@ There are 3 main modules:
 
   # Deliverables:
      Deliverable1 -> Software-Engineering-Project/Deliverables/TeamDeliverable-1.docx
+     Deliverable2 -> Software-Engineering-Project/Deliverables/TeamDeliverable-2.docx
     
   # Minutes of Meeting:
      Software-Engineering-Project/Minutes of Meeting/Minutes of Meeting.txt
