@@ -35,7 +35,10 @@ There are 3 main modules:
     
   # Minutes of Meeting:
      Software-Engineering-Project/Minutes of Meeting/Minutes of Meeting.txt
-  
+     
+  # Presentations
+      Software-Engineering-Project/Presentations/
+   
   # Group Info:
      Software-Engineering-Project/GROUP-INFO
   
