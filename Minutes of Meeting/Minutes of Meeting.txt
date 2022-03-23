@@ -16,7 +16,7 @@ Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
 
 Meeting 2: 2/19/2022 - 6:00PM - 8:00PM - Zoom meeting
 
-Minutes of Meeting for Deliverable-1 (2/19/2022 - 6:00PM - 8:00PM)
+Minutes of Meeting for Deliverable-2 (2/19/2022 - 6:00PM - 8:00PM)
 
 Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
 
@@ -28,7 +28,7 @@ Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
 
 Meeting 3: 2/26/2022 - 6:00PM - 8:00PM - Zoom meeting
 
-Minutes of Meeting for Deliverable-1 (2/26/2022 - 6:00PM - 8:00PM)
+Minutes of Meeting for Deliverable-2 (2/26/2022 - 6:00PM - 8:00PM)
 
 Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
 
@@ -39,3 +39,24 @@ Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
 5. We integrated our individual components that we worked on for deliverable-2 and prepared a final document.
 
 
+Meeting 4: 3/05/2022 - 6:00PM - 8:00PM - Zoom meeting
+
+Minutes of Meeting for Deliverable-3 (3/05/2022 - 6:00PM - 8:00PM)
+
+Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
+
+1. We divided deliverable-3 components among team members based on team members availability and skills.
+2. We have prioritized the functionalities in Phase-1 and assigned work to each team member.
+3. We have discussed about timelines and how we can manage and work in the spring break.
+4. We had basic training session on PHP and XAMPP.
+
+Meeting 5: 3/19/2022 - 6:00PM - 8:00PM - Zoom meeting
+
+Minutes of Meeting for Deliverable-3 (3/19/2022 - 6:00PM - 8:00PM)
+
+Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
+
+1. We have intergrated all the individual components worked on by different team members.
+2. Tried to Resolve Bugs during the integration of modules.
+3. Worked on Deliverable-3 User Manual and Test Cases.
+5. We have prepared Code inspection document.
