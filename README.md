@@ -30,7 +30,7 @@ There are 3 main modules:
 # Folder Structure:
 
   # Code:
-  
+     Code -> Software-Engineering-Project/Code/BTS
   # Deliverables:
      Deliverable1 -> Software-Engineering-Project/Deliverables/TeamDeliverable-1.docx
      Deliverable2 -> Software-Engineering-Project/Deliverables/TeamDeliverable-2.docx
