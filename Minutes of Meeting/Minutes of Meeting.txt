@@ -60,3 +60,23 @@ Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
 2. Tried to Resolve Bugs during the integration of modules.
 3. Worked on Deliverable-3 User Manual and Test Cases.
 5. We have prepared Code inspection document.
+
+Meeting 6: 3/26/2022 - 6:00PM - 8:00PM - Zoom meeting
+
+Minutes of Meeting for Deliverable-3 (3/26/2022 - 6:00PM - 8:00PM)
+
+Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
+
+1. We divided deliverable-4 components among team members based on team members availability and skills.
+2. We have prioritized the functionalities in Phase-2 and assigned work to each team member.
+3. We have discussed about timelines and how we can manage work.
+
+Meeting 7: 4/2/2022 - 6:00PM - 8:00PM - Zoom meeting
+
+Minutes of Meeting for Deliverable-3 (4/2/2022 - 6:00PM - 8:00PM)
+
+Meeting attendees: Neha, Prem, Maharshi, Harika, Reshmi, Vamshi, Rahul, Surya
+
+1. We have intergrated all the individual components worked on by different team members.
+2. Tried to Resolve Bugs during the complete testing of the integrated of modules.
+3. Worked on Deliverable-4 Test Cases.
