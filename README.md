@@ -35,6 +35,7 @@ There are 3 main modules:
      Deliverable1 -> Software-Engineering-Project/Deliverables/TeamDeliverable-1.docx
      Deliverable2 -> Software-Engineering-Project/Deliverables/TeamDeliverable-2.docx
      Deliverable3 -> Software-Engineering-Project/Deliverables/TeamDeliverable-3.docx
+     Deliverable4 -> Software-Engineering-Project/Deliverables/TeamDeliverable-4.docx
     
   # Minutes of Meeting:
      Software-Engineering-Project/Minutes of Meeting/Minutes of Meeting.txt
