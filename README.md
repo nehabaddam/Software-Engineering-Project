@@ -32,11 +32,13 @@ There are 3 main modules:
   # Code:
      Phase-1 -> Software-Engineering-Project/Code/Phase-1/BTS.zip
      Phase-2 -> Software-Engineering-Project/Code/Phase-2/BTS.zip
+     Phase-3 -> Software-Engineering-Project/Code/Phase-3/BTS.zip
   # Deliverables:
      Deliverable1 -> Software-Engineering-Project/Deliverables/TeamDeliverable-1.docx
      Deliverable2 -> Software-Engineering-Project/Deliverables/TeamDeliverable-2.docx
      Deliverable3 -> Software-Engineering-Project/Deliverables/TeamDeliverable-3.docx
      Deliverable4 -> Software-Engineering-Project/Deliverables/TeamDeliverable-4.docx
+     Deliverable5 -> Software-Engineering-Project/Deliverables/TeamDeliverable-5.docx
     
   # Minutes of Meeting:
      Software-Engineering-Project/Minutes of Meeting/Minutes of Meeting.txt
